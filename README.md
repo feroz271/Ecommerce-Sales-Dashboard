@@ -30,7 +30,8 @@ PowerBI
 
 - Data Loading into Power BI: After the transformation process, the refined data was loaded into Power BI for visualization and analysis. This step involved importing the cleaned data into Power BI's data model, where it could be easily accessed and utilized for creating insightful visualizations and reports.
 
-  # Project Learnings:
+
+# Project Learnings:
   
 -  Created an interactive dashboard for online sales data tracking and analysis.
   
