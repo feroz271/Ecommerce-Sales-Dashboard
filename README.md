@@ -1,14 +1,14 @@
-# 🛍️ "Madhav Store" E Commerce Sales Dashboard
+#  " SP Store" E Commerce Sales Dashboard
  
 
- # PROJECT DISCRIPTION
+ # PROJECT DESCRIPTION
  
- Madhav Store's owner has approached us for help in creating a dashboard to effectively track and analyze their online sales performance across India. 
+ The Approach of this Project  is to create a dashboard to effectively track and analyze online sales performance of SP stores across India 
 
 
  # TECH STACK USED
 
- ![Untitled](https://github.com/harshitgahlaut/Madhav_E_Commerce_Sales_Dashboard_PowerBI/assets/142779836/cebb1251-93c5-46b3-8d9c-4957e1d844cf)
+ ![Untitled](https://github.com/harshitgahlaut/Madhav_E_Commerce_Sales_Dashboard_PowerBI/assets/142779836/cebb1251-93c5-46b3-8d9c-4957e1d844cf) 
 
 PowerBI
 
@@ -49,7 +49,8 @@ PowerBI
 # DATA VISUALIZATION
 
 
-![photo power](https://github.com/feroz271/Ecommerce-Sales-Dashboard/assets/162626833/fff16cde-9f8f-43ae-b5b4-f45f587c386b)
+ ![dashboard 3](https://github.com/feroz271/Ecommerce-Sales-Dashboard/assets/162626833/5b3e313b-a0af-4b0e-909b-5f70e062e129)
+
 
 
 # INSIGHT
@@ -71,10 +72,11 @@ PowerBI
   
 
 # RECOMMENDATION BASED ON ANALYSIS
+
 - The customers living in Maharashtra, Madhya Pradesh and Uttar Pradesh purchase the most of the products such as Clothing, Electronics and Furnitures.
 
   
-- To improve sales of the Madhav E-Commerce Store, the owner must show maximum ads, sale offers/coupons in the months from January to April and December.
+- To improve sales of the SP E-Commerce Store, the owner must show maximum ads, sale offers/coupons in the months from January to April and December.
 
 
 # END
