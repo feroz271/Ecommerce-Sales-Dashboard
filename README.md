@@ -1,4 +1,4 @@
-#  " SP Store" E Commerce Sales Dashboard
+#  <img width="96" height="96" src="https://img.icons8.com/color/96/shopping-mall.png" alt="shopping-mall"/>  "SP Store" E Commerce Sales Dashboard
  
 
  # PROJECT DESCRIPTION
